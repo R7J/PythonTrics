@@ -1,0 +1,2 @@
+# PythonTrics
+Basic Code practices
